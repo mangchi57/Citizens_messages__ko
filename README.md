@@ -8,3 +8,7 @@
 디스코드 : 짱구#walletfairy
 
 깃헙 : https://github.com/mangchi57?tab=repositories
+
+적용법
+
+# plugins\Citizens\lang 해당경로에 파일변경후 리로드 하세요
