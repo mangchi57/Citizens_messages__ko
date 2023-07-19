@@ -1,4 +1,4 @@
-# Citizens_messagko_kr
+# Citizens_messages__ko
 한국어 번역작업한 파일 업로드 합니다
 
 #messages_en.properties 파일만 번역이기에 미흡한 부분이 있을수도있습니다.
